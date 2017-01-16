@@ -1,4 +1,6 @@
 
+## Things I learned today
+
 * How to use CMD
 * How to use Markdown
 * How to use Git
